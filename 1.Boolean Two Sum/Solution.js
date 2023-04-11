@@ -1,3 +1,4 @@
+// Solution
 class Solution {
     solve(nums, k) {
         let check = [];
@@ -12,6 +13,7 @@ class Solution {
     }
 }
 
+// Main
 const readline = require('readline');
 const rl = readline.createInterface({
     input: process.stdin,
